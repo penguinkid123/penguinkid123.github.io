@@ -1718,9 +1718,9 @@
 /* Wrappers */
 
 	#header-wrapper {
-		background: url("images/bg01.png"), url("../../images/header.jpg");
-		background-position: top left, center center;
-		background-size: auto, cover;
+		background: url("images/city.jpeg");
+		/*background-position: top left, center center;*/
+		background-size: 100%;
 	}
 
 	#main-wrapper {
